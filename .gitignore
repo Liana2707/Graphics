@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+env/
+
+# Generated files
+__pycache__/
+*.pyc
+
+# Secret files
+config.json
+database.db
+
+# Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
+
+# Jupyter Notebook execution results
+*.nbconvert.ipynb
+*.nbformat.json
+
+# Python library
+Lib/
+lib/
+Scripts/
+etc/
+share/
